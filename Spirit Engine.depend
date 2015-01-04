@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1420407397 source:/home/conor/Projects/Spirit Engine/src/Core.cpp
+	"Core.h"
+
+1420407444 /home/conor/Projects/Spirit Engine/include/Core.h
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	<SDL2/SDL_opengl.h>
+	<GL/glu.h>
+	<stdio.h>
+	<string>
+
